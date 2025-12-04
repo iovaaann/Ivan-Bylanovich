@@ -1,0 +1,1 @@
+add_executable(Lab_7 ${CMAKE_CURRENT_SOURCE_DIR}/Lab_7.cpp)
